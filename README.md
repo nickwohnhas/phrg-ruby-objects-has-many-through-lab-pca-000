@@ -1,4 +1,3 @@
-
 # Ruby Object Relations: Has-Many-Through Lab
 
 ## Objectives
@@ -57,6 +56,4 @@ Now let's move on to our `Doctor`/`Appointment`/`Patient` domain model.
 * The `Patient` class needs an instance method, `#appointments`, that returns the content of the `@appointments` array. 
 * The `Patient` class needs an instance method, `#doctors`, that iterates over that patient's appointments and collects the doctor that belongs to each appointment. 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-objects-has-many-through-lab' title='Ruby Object Relations: Has-Many-Through Lab'>Ruby Object Relations: Has-Many-Through Lab</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-objects-has-many-through-lab'>Has Many Objects Through Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Ruby Object Relations: Has-Many-Through Lab</p>
